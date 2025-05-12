@@ -1,0 +1,24 @@
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .monogram {
+        font-family: 'Georgia', serif;
+        font-weight: 700;
+        font-size: 40px;
+        fill: #0e9488;
+      }
+      .money {
+        font-family: 'Inter', sans-serif;
+        font-weight: 500;
+        font-size: 30px;
+        fill: #fff;
+      }
+    </style>
+  </defs>
+
+  <!-- Monograma PB com sobreposição -->
+  <text x="20" y="52" class="monogram">P</text>
+  <text x="35" y="52" class="monogram" fill-opacity="0.6">B</text>
+  <!-- Palavra Money -->
+  <text x="70" y="52" class="money">Money</text>
+</svg>
