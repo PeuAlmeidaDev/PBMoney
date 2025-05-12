@@ -1,6 +1,7 @@
 import { GlobalStyle } from "./styles/global";
 import { Header } from "./components/Header";
 import { Dashboard } from "./components/Dashboard";
+import { TransactionTable } from "./components/TransactionTable";
 export function App() {
   return (
     <>
